@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 勝たんしか！！</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on 勝たんしか！！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 May 2021 19:15:42 -0700</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>土谷肇のアイドル道！</title>
+      <link>http://example.org/post/my-first-post/</link>
+      <pubDate>Thu, 06 May 2021 19:15:42 -0700</pubDate>
+      
+      <guid>http://example.org/post/my-first-post/</guid>
+      <description>段々と気温が上がり、夏の訪れを感じる今日この頃
+皆さんはいかがお過ごしですか？
+世はまさにコロナ一色、
+緊急事態宣言が名古屋・福岡にも発出されようとしています
+こんなにも暗い世の中ですが、
+そんな世の中を明るく照らしてくれる存在、
+それがアイドルです！
+アイドルこそ正義！
+アイドルしか勝たん！ </description>
+    </item>
+    
+  </channel>
+</rss>

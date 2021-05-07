@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "勝たんしか！！"
+theme = "ananke"
+contentDir = "post"
+publishDir = "docs"
